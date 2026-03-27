@@ -48,17 +48,9 @@ The dashboard focuses on analyzing **customer behavior, regional performance, an
 
 ---
 
-## 💡 Business Recommendations
-
-* Focus marketing efforts on the **Consumer segment**
-* Replicate successful strategies from high-performing regions (West/East)
-* Improve performance in cities with high customers but lower order volume
-
----
-
 ## 📁 Files Included
 
-* `Sales_Dashboard.xlsx` → Main Excel dashboard file
+* `Customer Dashboard.xlsx` → Main Excel dashboard file
 * `README.md` → Project documentation
 
 ---
@@ -69,15 +61,6 @@ The dashboard focuses on analyzing **customer behavior, regional performance, an
 2. Open using Microsoft Excel (recommended version: 2016 or later)
 3. Use slicers to interact with the dashboard
 4. Explore insights across regions, segments, and time
-
----
-
-## 👥 Acknowledgment
-
-Special thanks to:
-
-* @username1
-* @username2
 
 ---
 
