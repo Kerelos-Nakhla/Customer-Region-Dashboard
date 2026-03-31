@@ -50,7 +50,7 @@ The dashboard focuses on analyzing **customer behavior, regional performance, an
 
 ## 📁 Files Included
 
-* `Customer Dashboard.xlsx` → Main Excel dashboard file
+* `Customer & Region Dashboard.xlsx` → Main Excel dashboard file
 * `README.md` → Project documentation
 
 ---
